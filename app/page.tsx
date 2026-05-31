@@ -211,7 +211,7 @@ export default function Home() {
 
               <div className="space-y-6 text-sm md:text-base leading-relaxed text-gray-300 font-mono tracking-wide">
                 <p>
-                  La Polaroid es un objeto único e irrepetible, al verala
+                  La Polaroid es un objeto único e irrepetible, al ver una
                   interactuas con los mismos fotones que interactuaron con la
                   materia ese mismo día. La red social iguala todo bajo un mismo
                   estándar; este sitio busca la regresar esta presencia de
