@@ -211,19 +211,20 @@ export default function Home() {
 
               <div className="space-y-6 text-sm md:text-base leading-relaxed text-gray-300 font-mono tracking-wide">
                 <p>
-                  La Polaroid es un objeto único e irrepetible, al ver una
+                  Una Polaroid es un objeto único e irrepetible, al verla
                   interactuas con los mismos fotones que interactuaron con la
-                  materia ese mismo día. La red social iguala todo bajo un mismo
-                  estándar; este sitio busca la regresar esta presencia de
-                  singularidad a mis polaroids, junto a ser un espacio digital
-                  donde puedo compartir mis fotografías.
+                  materia ese mismo día. El internet y su difusión masiva de
+                  imagenes iguala todo bajo un mismo nivel de atención y valor;
+                  este sitio busca regresar la presencia de singularidad a mis
+                  polaroids, junto a ser un espacio digital donde puedo
+                  compartir mis exploraciones con la fotografía análoga.
                 </p>
                 <p>
-                  Esta plataforma web interactiva está diseñada como una mirada
-                  a mi archivo personal de fotografía instantánea (Polaroid). El
-                  proyecto contrapone la saturación visual de las redes sociales
-                  actuales mediante un mecanismo de revelado digital: cada
-                  imagen se presenta inicialmente como un bloque de arte ASCII,
+                  Esta web interactiva está diseñada como una mirada a mi
+                  archivo personal de fotografía instantánea (Polaroid). El
+                  proyecto resiste a la saturación visual de las redes sociales
+                  mediante un mecanismo de revelado digital: cada imagen se
+                  presenta inicialmente como un bloque de arte ASCII,
                   requiriendo la interacción consciente del usuario (click) para
                   ser observada, emulando así el tiempo de espera físico del
                   revelado químico.
@@ -238,7 +239,10 @@ export default function Home() {
                 </p>
                 <p>
                   El presente proyecto fue creado en JS con React 19, con Next.
-                  Empleando librerías como Three JS y Framer Motion.
+                  Empleando librerías como Three JS y Framer Motion. Este sitio
+                  no es creado con fines de lucro. Toda la autoría del proyecto
+                  tanto las fotografías como el código es autoría de Aarón Yáñez
+                  Armenta. Mayo 20206
                 </p>
               </div>
             </motion.div>
